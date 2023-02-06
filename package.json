@@ -1,10 +1,10 @@
 {
-  "name": "apility-pa11y-reporter",
+  "name": "@apility/pa11y-reporter-json",
   "version": "1.0.0",
   "description": "A JSON reporter for Pa11y",
   "repository": {
     "type": "git",
-    "url": "https://github.com/apility/apility-pa11y-reporter.git"
+    "url": "https://github.com/apility/pa11y-reporter-json.git"
   },
   "engines": {
     "node": ">=10"
