@@ -1,0 +1,21 @@
+{
+  "name": "apility-pa11y-reporter",
+  "version": "1.0.0",
+  "description": "A JSON reporter for Pa11y",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apility/apility-pa11y-reporter.git"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "yargs": "^17.6.2"
+  },
+  "main": "./lib/reporter.js",
+  "scripts": {},
+  "files": [
+    "lib"
+  ]
+}
